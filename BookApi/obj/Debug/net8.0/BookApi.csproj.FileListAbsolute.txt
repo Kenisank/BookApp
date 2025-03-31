@@ -23,3 +23,4 @@ C:\codes\BookApp\BookApi\obj\Debug\net8.0\refint\BookApi.dll
 C:\codes\BookApp\BookApi\obj\Debug\net8.0\BookApi.pdb
 C:\codes\BookApp\BookApi\obj\Debug\net8.0\BookApi.genruntimeconfig.cache
 C:\codes\BookApp\BookApi\obj\Debug\net8.0\ref\BookApi.dll
+C:\codes\BookApp\BookApi\obj\Debug\net8.0\BookApi.sourcelink.json
